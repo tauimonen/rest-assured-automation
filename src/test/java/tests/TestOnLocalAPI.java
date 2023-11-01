@@ -89,7 +89,5 @@ public class TestOnLocalAPI {
             .delete("/users/4")
             .then()
             .statusCode(200);
-    }
-   
-    
+    }    
 }

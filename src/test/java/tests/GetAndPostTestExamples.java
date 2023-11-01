@@ -6,10 +6,8 @@ import io.restassured.http.ContentType;
 import static org.hamcrest.Matchers.*;
 import org.json.JSONObject;
 import org.testng.annotations.Test;
-/**
- *
- * @author uimon
- */
+ 
+
 public class GetAndPostTestExamples {
     
     @Test
